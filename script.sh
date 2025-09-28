@@ -6,7 +6,6 @@ rm -rf .repo/local_manifests/
 # ROM source repo
 repo init -u https://github.com/RisingOS-Revived/android -b sixteen --git-lfs
 
-
 # Device Tree
 git clone https://github.com/AbdoXBuilder/device_xiaomi_miatoll.git -b 166 device/xiaomi/miatoll
 git clone https://github.com/AbdoXBuilder/device_xiaomi_sm6250-common.git -b 16 device/xiaomi/sm6250-common
