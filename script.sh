@@ -16,7 +16,7 @@ git clone https://github.com/AbdoXBuilder/vendor_xiaomi_sm6250-common.git -b 16 
 git clone https://github.com/AbdoXBuilder/vendor_xiaomi_miuicamera.git -b 16 vendor/xiaomi/miuicamera
 
 #Device Kernel
-git clone https://github.com/AbdoXBuilder/kernel_xiaomi_sm6250.git -b 16 kernel/xiaomi/sm6250
+git clone https://github.com/AbdoXBuilder/kernel_xiaomi_sm6250.git -b 16.0 kernel/xiaomi/sm6250
 
 #Device Hardware 
 git clone https://github.com/AbdoXBuilder/hardware_xiaomi.git -b 16-dolby hardware/xiaomi
